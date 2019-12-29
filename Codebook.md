@@ -1,8 +1,8 @@
 ## **Identifiers:**
 
-"activity": The type of activity
+activity    - The type of activity
 
-"subject": The subject ID
+subject     - The subject ID
 
 ## **Activity column types:**
 
