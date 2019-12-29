@@ -1,4 +1,4 @@
-# Gettin_and_Cleaning_data
+# Getting_and_Cleaning_data
 
 How it works :
 
